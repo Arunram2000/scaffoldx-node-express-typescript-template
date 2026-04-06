@@ -1,0 +1,13 @@
+{
+  "questions": [
+    {
+      "name": "PROJECT_NAME",
+      "message": "Project name?"
+    },
+    {
+      "name": "PORT",
+      "message": "Port number?",
+      "aliases": ["__PORT__"]
+    }
+  ]
+}
