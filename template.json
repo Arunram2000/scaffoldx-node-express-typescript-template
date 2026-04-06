@@ -1,5 +1,6 @@
 {
   "name": "express-ts",
+  "stack: "node",
   "version": "1.0.0",
   "description": "Production-ready Node.js TypeScript Express starter",
   "placeholders": ["PROJECT_NAME", "PORT"]
